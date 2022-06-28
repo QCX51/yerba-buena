@@ -1,0 +1,7 @@
+{
+  "name": "YerbaBuena",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
